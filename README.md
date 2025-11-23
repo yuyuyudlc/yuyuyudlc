@@ -3,5 +3,5 @@
 
 ## 关于我  
 - 🌍 来自 南京  
-- 💻 擅长python Vue.js fastapi
+- 💻 擅长python Vue.js React
 - 📫 联系我: 1623dlc@nuaa.edu.cn 
